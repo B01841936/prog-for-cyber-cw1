@@ -7,8 +7,8 @@ This branch is for tool 1 - security-tool, a variety of various simple tools, su
 
 Executable using Visual Studio code and the python extension installed Instructions:
 
-Open VScode (or install if not already)
-Add python extension using sidebar on left.
-Open security-incident-manager.py in VScode
-Press run at top right
-Follow prompts given by program.
+- Open VScode (or install if not already)
+- Add python extension using sidebar on left.
+- Open security-incident-manager.py in VScode
+- Press run at top right
+- Follow prompts given by program.
